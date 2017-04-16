@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "456. 132 Pattern", "456. 132 Pattern\456. 132 Pattern.csproj", "{F9D7E2B2-8581-488A-BFC9-B647CD9FCB28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{6FF437FF-DD99-4921-8B5B-E70028CAAA86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Two Sum", "Two Sum\1.Two Sum.csproj", "{6FF437FF-DD99-4921-8B5B-E70028CAAA86}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Add Two Numbers", "2. Add Two Numbers\2. Add Two Numbers.csproj", "{28B27FCE-340D-4117-9863-1D0205E63F5F}"
 EndProject
@@ -20,6 +20,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "540. Single Element in a Sorted Array", "540. Single Element in a Sorted Array\540. Single Element in a Sorted Array.csproj", "{EB661CD4-1B69-4F72-8731-0A3E4525F7B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. ZigZag Conversion", "6. ZigZag Conversion\6. ZigZag Conversion.csproj", "{FBE6FC92-507B-46B4-BFD2-264D247EED59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Reverse Integer", "7. Reverse Integer\7. Reverse Integer.csproj", "{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. String to Integer (atoi)", "8. String to Integer (atoi)\8. String to Integer (atoi).csproj", "{2D08D502-9D03-4355-9FDE-B595DB61622E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -137,6 +141,30 @@ Global
 		{FBE6FC92-507B-46B4-BFD2-264D247EED59}.Release|x64.Build.0 = Release|Any CPU
 		{FBE6FC92-507B-46B4-BFD2-264D247EED59}.Release|x86.ActiveCfg = Release|Any CPU
 		{FBE6FC92-507B-46B4-BFD2-264D247EED59}.Release|x86.Build.0 = Release|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Debug|x64.Build.0 = Debug|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Debug|x86.Build.0 = Debug|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Release|x64.ActiveCfg = Release|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Release|x64.Build.0 = Release|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Release|x86.ActiveCfg = Release|Any CPU
+		{F1819D4F-9220-49E4-8A01-9E255D2D1CAF}.Release|x86.Build.0 = Release|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Debug|x64.Build.0 = Debug|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Debug|x86.Build.0 = Debug|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Release|x64.ActiveCfg = Release|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Release|x64.Build.0 = Release|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Release|x86.ActiveCfg = Release|Any CPU
+		{2D08D502-9D03-4355-9FDE-B595DB61622E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
